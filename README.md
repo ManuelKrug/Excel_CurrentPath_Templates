@@ -29,10 +29,15 @@ tpl_xl_urlEncoded_Fullname     |
   
 FORMULAS
 ________
-AMOUNT_OF("hello","l")            -> 2
-REVERSE_OF("hello")             -> "olleh"
-REPLACE_CHARS("hello","hl",-")  -> "-e--o"	
-Replace Of is by: https://www.ablebits.com/office-addins-blog/write-recursive-lambda-function-excel/
+AMOUNT_OF("hello","l")            
+  ->  2
+  
+REVERSE_OF("hello")             
+  ->  "olleh"
+
+REPLACE_CHARS("hello","hl",-")  
+  ->  "-e--o"	
+  Replace Of is by: https://www.ablebits.com/office-addins-blog/write-recursive-lambda-function-excel/
 
 
 ELSE
