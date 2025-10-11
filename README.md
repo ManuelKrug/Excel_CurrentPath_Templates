@@ -6,13 +6,20 @@ ________
 
 NAMED_RANGES
 ____________
-tpl_xl_InternPath              |  D:\Users\sb\Documents\Benutzerdefinierte Office-Vorlagen\[TEMPlate_path.xltx]intern_PathInfos
-tpl_xl_Fullname                |  D:\Users\sb\Documents\Benutzerdefinierte Office-Vorlagen\TEMPlate_path.xltx
-tpl_xl_FolderPath              |  D:\Users\sb\Documents\Benutzerdefinierte Office-Vorlagen\
-tpl_xl_FileNameAndExtension    |  TEMPlate_path.xltx
-tpl_xl_Filename                |  TEMPlate_path
-tpl_xl_Extension               |  xltx
-tpl_xl_urlEncoded_Fullname     |  D%3A%5CUsers%5Csb%5CDocuments%5CBenutzerdefinierte%20Office-Vorlagen%5C%5BTEMPlate_path.xltx%5Dintern_PathInfos
+tpl_xl_InternPath              |  
+  ->  D:\Users\sb\Documents\Benutzerdefinierte Office-Vorlagen\[TEMPlate_path.xltx]intern_PathInfos
+tpl_xl_Fullname                |  
+  ->  D:\Users\sb\Documents\Benutzerdefinierte Office-Vorlagen\TEMPlate_path.xltx
+tpl_xl_FolderPath              |  
+  ->  D:\Users\sb\Documents\Benutzerdefinierte Office-Vorlagen\
+tpl_xl_FileNameAndExtension    |  
+  ->  TEMPlate_path.xltx
+tpl_xl_Filename                |  
+  ->  TEMPlate_path
+tpl_xl_Extension               |  
+  ->  xltx
+tpl_xl_urlEncoded_Fullname     |  
+  ->  D%3A%5CUsers%5Csb%5CDocuments%5CBenutzerdefinierte%20Office-Vorlagen%5C%5BTEMPlate_path.xltx%5Dintern_PathInfos
   
 FORMULAS
 ________
